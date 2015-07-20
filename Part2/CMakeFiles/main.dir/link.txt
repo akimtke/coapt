@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/QuickSort.c.o CMakeFiles/main.dir/src/AlphaLib.c.o CMakeFiles/main.dir/src/CSVReader.c.o CMakeFiles/main.dir/src/CSVWriter.c.o  -o bin/main  
