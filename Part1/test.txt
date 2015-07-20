@@ -1,0 +1,5 @@
+In C# with .NET Framework:
+1. Create a console application that can read in a text file containing ASCII text from a particular location, and parse that file for the number of occurrences of a string argument also passed when executing this application. The output should indicate the number of occurrences of the selected string input. The solution should include full commenting and proper exception handling. 
+
+In C, following the ANSI ruleset:
+2. Create an application (this can be a Win32 Console Application) that implements a quick sort algorithm that is efficient and fault tolerant. The input will be a text file that will contain a random string of ASCII text in CSV format which are in random order. The algorithm should sort alphabetically in each row (left to right), and then sort all lines from alphabetically (top to bottom). The output, should be the same file, with all elements within a row sorted, and all lines sorted. The solution should include full commenting and exception handling. 
